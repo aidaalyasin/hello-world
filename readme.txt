@@ -1,5 +1,1 @@
-Hello!
-Changed!
-Another!
-Test
-
+﻿Hello!
